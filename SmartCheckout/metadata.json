@@ -1,0 +1,6 @@
+{
+  "name": "Alder & Clay — Single-Page Checkout",
+  "description": "A single-page storefront checkout for artisanal pour-over hardware with live cart totals, field validation, idempotent order confirmation, and automated Playwright browser tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
